@@ -9,7 +9,7 @@
 - [BashScripting](/Linux/Bash/bashScripting.md)
 - [Git](/Git.md)
 - [Работа BashScripting](/bashscriptingwork/README.md)
-- [docker](/docker.md)
+- [Docker](/docker.md)
 - [Мой демонстрационный сайт](https://lokifarm13.github.io/my_site/)
 - [Репозиторий сайта](https://github.com/lokifarm13/my_site.git)
 - [Репозиторий работы сайта автосервиса](https://github.com/lokifarm13/static-site_work)
