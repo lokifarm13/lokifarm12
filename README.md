@@ -16,3 +16,5 @@
 - [Работа сайт автосервиса](https://lokifarm13.github.io/static-site_work/)
 - [Командная работа сайта репозиторий](https://github.com/lokifarm13/groupproject)
 - [Командная работа сайта аптеки](https://lokifarm13.github.io/groupproject/)
+- [Работа Nginx в Docker](/dockerwork/nginx/README.md)
+- [Работа Welcome To Docker](/dockerwork/welcome-to-docker/README.md)
