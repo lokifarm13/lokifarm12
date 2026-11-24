@@ -138,7 +138,7 @@ docker stats --no-stream
 
 ![docker stats](img/stats.png)
 
-Лог контейнера (видны мои запросы через `curl`):
+Лог контейнера (видны запуск воркеров и мои запросы к серверу):
 
 ```shell
 docker logs my-nginx
@@ -171,6 +171,10 @@ cat /etc/os-release
 apt update && apt install -y fastfetch htop inxi cmatrix hollywood caca-utils mc micro
 ```
 
+Во время установки одна из программ спросила раскладку клавиатуры, я выбрал английскую (`1`):
+
+![Установка программ](img/apt_install.png)
+
 `fastfetch` показывает сводку о системе:
 
 ```shell
@@ -202,6 +206,14 @@ cacafire
 ```
 
 ![cacafire](img/cacafire.png)
+
+`hollywood` запускает сразу несколько окон в tmux (atop, bmon, логи и другое):
+
+```shell
+hollywood
+```
+
+![hollywood](img/hollywood.png)
 
 ## 6. Редактирование страницы Nginx
 
